@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="saklains_banner.svg" width="100%" alt="Saklain Mostak Banner" />
+  <img src="https://www.image2url.com/r2/default/images/1789448479354-96de0edc-72f7-44c9-b8e7-58004b56f058.svg" alt="image" />
 </div>
 
 <div align="center">
