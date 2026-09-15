@@ -319,13 +319,6 @@ At **Softvence**, I build client-facing Flutter apps powered by GetX, Firebase, 
 
 <br />
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="35" height="35" /> GitHub Analytics
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.shion.dev/api?username=Saklain-Mostak&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&bg_color=0E1624&title_color=C2A46B&icon_color=C2A46B&text_color=C5D0DC&cache_seconds=1800" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-stats.shion.dev/api/top-langs?username=Saklain-Mostak&layout=compact&langs_count=8&theme=transparent&hide_border=true&bg_color=0E1624&title_color=C2A46B&text_color=C5D0DC&cache_seconds=1800" alt="Top languages" />
-</div>
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Line divider" />
 
 <br />
