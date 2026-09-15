@@ -48,8 +48,6 @@ At **Softvence**, I build client-facing Flutter apps powered by GetX, Firebase, 
 
 <br />
 
-<img src="https://cdn.jsdelivr.net/gh/AnisulHaqueNiloy/AnisulHaqueNiloy@main/assets/about-code.gif" width="100%" alt="Animated code profile object" />
-
 </td>
 <td width="30%" valign="top" align="center">
 
@@ -374,6 +372,3 @@ At **Softvence**, I build client-facing Flutter apps powered by GetX, Firebase, 
 
 <br />
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/AnisulHaqueNiloy/AnisulHaqueNiloy@main/assets/footer-elegant.gif" width="100%" alt="Elegant footer" />
-</div>
