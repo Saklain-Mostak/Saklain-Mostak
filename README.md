@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/AnisulHaqueNiloy/AnisulHaqueNiloy@main/assets/banner-elegant.gif" width="100%" alt="Elegant coding banner — Saklain Mostak" />
+  <img src="saklains_banner.svg" width="100%" alt="Saklain Mostak Banner" />
 </div>
 
 <div align="center">
@@ -65,8 +65,7 @@ At **Softvence**, I build client-facing Flutter apps powered by GetX, Firebase, 
 
 <br />
 
-**Flutter Developer**  
-Softvence · Aug 2025 – Present
+**Flutter Developer** Softvence · Aug 2025 – Present
 
 📍 Mirpur, Dhaka, Bangladesh  
 🎓 BSc CSE · 2019–2022
@@ -138,8 +137,7 @@ Softvence · Aug 2025 – Present
 <td width="50%" valign="top">
 
 ### 🏢 Softvence Agency
-**Flutter Developer**  
-`Aug 2025 — Present` · *Dhaka, Bangladesh*
+**Flutter Developer** `Aug 2025 — Present` · *Dhaka, Bangladesh*
 
 <img src="https://img.shields.io/badge/Status-Current-10B981?style=flat-square" />
 
@@ -153,8 +151,7 @@ Softvence · Aug 2025 – Present
 <td width="50%" valign="top">
 
 ### ⚡ Xonic IT Foundation
-**Flutter Developer (Intern)**  
-`Nov 2024 — May 2025` · *Bogura, Bangladesh*
+**Flutter Developer (Intern)** `Nov 2024 — May 2025` · *Bogura, Bangladesh*
 
 <img src="https://img.shields.io/badge/Status-Completed-38BDF8?style=flat-square" />
 
@@ -340,8 +337,7 @@ Softvence · Aug 2025 – Present
 <div align="center">
 
 ### BSc in Computer Science & Engineering
-**Pundra University of Science & Technology, Bogura, Bangladesh**  
-`2019 — 2022` · **CGPA:** `3.46 / 4.00`
+**Pundra University of Science & Technology, Bogura, Bangladesh** `2019 — 2022` · **CGPA:** `3.46 / 4.00`
 
 </div>
 
